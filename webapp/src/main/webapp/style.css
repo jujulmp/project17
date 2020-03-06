@@ -76,6 +76,15 @@ body {
     white-space: nowrap; 
     animation: rock2;
     animation-iteration-count: infinite;
-    animation-duration: 1s;
+    animation-duration: 1s; 
+}
     
+.message h3 {
+    font-style: normal;
+    font-size: 75px;
+    margin-bottom: 0;
+    white-space: nowrap;
+    animation: rock1;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
 }
